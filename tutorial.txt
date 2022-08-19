@@ -1,5 +1,3 @@
 Hello this is a tutorial
 
-Making and edit after adding SSH
-
-test
+I have changed the file to show a changed tracked file. 
