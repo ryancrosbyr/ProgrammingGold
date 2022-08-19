@@ -1,11 +1,3 @@
 Hello this is a tutorial
 
-
 I have changed the file to show a changed tracked file. 
-
-
-Blah Blah Blah
-
-Making and edit after adding SSH
-
-test
